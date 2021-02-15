@@ -31,22 +31,22 @@ strong {
 h2 {
   font-size: 1.5em;
   text-transform: uppercase;
-  background-color: #33485e
-  color: #FFF
+  background-color: #33485e;
+  color: #FFF;
 }
 
 /* job titles */
 
 h3 {
   font-weight: 600;
-  font-size: 1.5em
+  font-size: 1.5em;
 }
 
 /* job organizations */
 
 h4{
   font-weight: 400;
-  font-size: 1.5em
+  font-size: 1.5em;
 }
 
 /* job dates */
