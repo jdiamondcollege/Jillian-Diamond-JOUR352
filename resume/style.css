@@ -11,11 +11,21 @@ body {
 
 /* banner name at top */
 
-h1 {
+#title {
+  font-weight: 600px;
+  text-align: center;
+  margin: 20px 0 0 0;
+}
+
+#name {
   font-size: 3em;
   text-transform: uppercase;
   text-align: center;
   color: #33485e;
+  border-bottom: 1px solid #33485e;
+  width: 60%;
+  min-width: 300px;
+  margin: 0 auto center;
 }
 
 /* webpage title */
@@ -28,37 +38,66 @@ strong {
 
 /* headers */
 
-h2 {
+.sectionheader {
   font-size: 1.5em;
   text-transform: uppercase;
   background-color: #33485e;
   color: #FFF;
+  margin: 20px 0 10px 0;
+  width: 70%;
+  min-width: 300px;
 }
 
 /* job titles */
 
-h3 {
+.jobtitle {
   font-weight: 600;
   font-size: 1.5em;
 }
 
 /* job organizations */
 
-h4{
+.organization {
   font-weight: 400;
-  font-size: 1.5em;
+  font-size: 1.25em;
 }
 
 /* job dates */
 
-h5 {
+.date {
   font-weight: 400;
   font-style: italic;
   font-size: 1em;
+  margin: 2px 0 0 0;
 }
 
 /* contact info and job details */
 
 ul {
   font-size: 1em;
+}
+
+.menu ul {
+  margin: 0px;
+  padding: 0px;
+  display: inline;
+}
+
+#degrees ul {
+  margin: 5px 0 0 0;
+}
+
+#do ul {
+  margin: 5px 0 0 0;
+}
+
+.description {
+  margin: 10px 0 10px 0;
+}
+
+#container {
+  width: 100%;
+  min-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 50px;
 }
