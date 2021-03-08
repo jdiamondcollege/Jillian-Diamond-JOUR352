@@ -28,13 +28,13 @@ figcaption {
   font-size: 0.75em;
 }
 
-footer {
+.site footer {
   font-family: 'Montserrat', sans-serif;
   text-align: center;
   font-size: 1em;
-  font-color: white;
+  background: white;
 }
 
-footer span {
-  background-color: black;
+#footer-content {
+  background: black;
 }
