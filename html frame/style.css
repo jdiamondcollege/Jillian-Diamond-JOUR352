@@ -24,6 +24,17 @@ p {
   width: 50%;
 }
 
+figcaption {
+  font-size: 0.75em;
+}
+
 footer {
   font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  font-size: 1em;
+  font-color: white;
+}
+
+footer span {
+  background-color: black;
 }
