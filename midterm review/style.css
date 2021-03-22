@@ -47,3 +47,8 @@ blockquote {
 p {
   font-size: 1em;
 }
+
+img {
+  max-width:50%;
+  max-height:50%;
+}
