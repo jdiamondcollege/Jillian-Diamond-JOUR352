@@ -7,8 +7,11 @@
   text-align: center;
   text-transform: capitalize;
   font-size: 3em;
+  font-family: 'Montserrat', serif;
 }
 
 #title {
-
+  text-align: left;
+  font-size: 2em;
+  font-family: 'Montserrat', sans-serif;
 }
