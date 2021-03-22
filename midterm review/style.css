@@ -52,7 +52,6 @@ p {
 img {
   max-width:50%;
   max-height:50%;
-  text-align: center;
 }
 
 footer {
@@ -61,5 +60,5 @@ footer {
   text-align: center;
   font-size: 1.5em;
   font-family: 'Helvetica', sans-serif;
-  font-weight: 300;
+  font-weight: 500;
 }
