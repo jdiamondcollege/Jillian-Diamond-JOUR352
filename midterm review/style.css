@@ -13,16 +13,17 @@
   color: white;
 }
 
-#title {
+h1 {
   text-align: left;
   font-size: 2em;
   font-weight: 500;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Helvetica', sans-serif;
 }
 
 #byline {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
   font-style: italic;
-  color: #848484;
 }
 
 figcaption {
@@ -51,4 +52,5 @@ p {
 img {
   max-width:50%;
   max-height:50%;
+  text-align: center;
 }
