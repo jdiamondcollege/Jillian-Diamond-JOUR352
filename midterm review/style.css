@@ -25,6 +25,13 @@
   color: #848484;
 }
 
+figcaption {
+  text-align: center;
+  font-style: italic;
+  color: #848484;
+  font-size: 0.5em;
+}
+
 blockquote {
   font-style: italic;
   margin-top: 15px;
@@ -34,4 +41,8 @@ blockquote {
   font-family: 'Montserrat', serif;
   color: blue;
   font-size: 2em;
+}
+
+p {
+  font-size: 1em;
 }
