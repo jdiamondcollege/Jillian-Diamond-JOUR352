@@ -2,3 +2,13 @@
   margin: 0 auto;
   width: 900px;
 }
+
+#masthead {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 3em;
+}
+
+#title {
+
+}
