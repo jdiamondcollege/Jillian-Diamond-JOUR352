@@ -54,3 +54,10 @@ img {
   max-height:50%;
   text-align: center;
 }
+
+footer {
+  color: white;
+  background-color: black;
+  text-align: center;
+  font-size: 1em;
+}
