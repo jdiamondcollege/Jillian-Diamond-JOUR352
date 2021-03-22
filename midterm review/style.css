@@ -19,3 +19,19 @@
   font-weight: 500;
   font-family: 'Montserrat', sans-serif;
 }
+
+#byline {
+  font-style: italic;
+  color: #848484;
+}
+
+blockquote {
+  font-style: italic;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 50px;
+  padding-left: 15px;
+  font-family: 'Montserrat', serif;
+  color: blue;
+  font-size: 2em;
+}
