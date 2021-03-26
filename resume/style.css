@@ -7,6 +7,8 @@ body {
   font-size: 1em;
   color: #444;
   font-weight: 400;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* banner name at top */
@@ -15,6 +17,8 @@ body {
   font-weight: 600px;
   text-align: center;
   margin: 20px 0 0 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #name {
@@ -26,6 +30,8 @@ body {
   width: 60%;
   min-width: 300px;
   margin: 0 auto center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* webpage title */
@@ -34,6 +40,8 @@ strong {
   color: #33485e;
   text-transform: uppercase;
   font-size: 1.5em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* headers */
@@ -46,6 +54,8 @@ strong {
   margin: 20px 0 10px 0;
   width: 70%;
   min-width: 300px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* job titles */
@@ -53,6 +63,8 @@ strong {
 .jobtitle {
   font-weight: 600;
   font-size: 1.5em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* job organizations */
@@ -60,6 +72,8 @@ strong {
 .organization {
   font-weight: 400;
   font-size: 1.25em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* job dates */
@@ -69,30 +83,42 @@ strong {
   font-style: italic;
   font-size: 1em;
   margin: 2px 0 0 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* contact info and job details */
 
 ul {
   font-size: 1em;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .menu ul {
   margin: 0px;
   padding: 0px;
   display: inline;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #degrees ul {
   margin: 5px 0 0 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #do ul {
   margin: 5px 0 0 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .description {
   margin: 10px 0 10px 0;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #container {
@@ -100,4 +126,6 @@ ul {
   min-width: 1200px;
   margin: 0 auto;
   padding-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
 }
