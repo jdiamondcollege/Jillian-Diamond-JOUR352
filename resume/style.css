@@ -9,6 +9,7 @@ body {
   font-weight: 400;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 /* banner name at top */
@@ -19,6 +20,7 @@ body {
   margin: 20px 0 0 0;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 #name {
@@ -32,6 +34,7 @@ body {
   margin: 0 auto center;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 /* webpage title */
@@ -42,6 +45,7 @@ strong {
   font-size: 1.5em;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 /* headers */
@@ -56,6 +60,7 @@ strong {
   min-width: 300px;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 /* job titles */
@@ -65,6 +70,7 @@ strong {
   font-size: 1.5em;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 /* job organizations */
@@ -74,6 +80,7 @@ strong {
   font-size: 1.25em;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 /* job dates */
@@ -85,6 +92,7 @@ strong {
   margin: 2px 0 0 0;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 /* contact info and job details */
@@ -93,6 +101,7 @@ ul {
   font-size: 1em;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 .menu ul {
@@ -101,24 +110,28 @@ ul {
   display: inline;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 #degrees ul {
   margin: 5px 0 0 0;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 #do ul {
   margin: 5px 0 0 0;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 .description {
   margin: 10px 0 10px 0;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
 
 #container {
@@ -128,4 +141,5 @@ ul {
   padding-bottom: 50px;
   margin-left: auto;
   margin-right: auto;
+  text-align: center;
 }
