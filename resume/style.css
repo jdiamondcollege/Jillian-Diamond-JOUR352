@@ -134,7 +134,7 @@ ul {
   text-align: center;
 }
 
-#container {
+.container {
   width: 100%;
   min-width: 1200px;
   margin: 0 auto;
@@ -143,5 +143,5 @@ ul {
   margin-right: auto;
   text-align: center;
   padding: 50px
-  background-color: yellow;
+  background-color: red;
 }
