@@ -4,6 +4,7 @@ body {
   margin-right: auto;
   text-align: center;
   font-size: 1em;
+  padding: 300px;
 }
 
 #masthead {
@@ -46,3 +47,5 @@ figcaption {
   font-style: italic;
   color: #919191;
 }
+
+/* captions are grey so less attention is drawn towards them */
