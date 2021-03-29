@@ -28,3 +28,15 @@ h1 {
   font-size: 14px;
   font-style: italic;
 }
+
+#subhead {
+  font-weight: 400;
+  font-size: 1.5em;
+}
+
+blockquote {
+  font-weight: 400;
+  font-size: 1.5em;
+  text-transform: capitalize;
+  font-style: italic;
+}
