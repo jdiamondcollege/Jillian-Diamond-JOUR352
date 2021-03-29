@@ -5,3 +5,13 @@ body {
   text-align: center;
   font-size: 1em;
 }
+
+#masthead {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 3em;
+  font-weight: 700;
+  font-family: 'Montserrat', serif;
+  background-color: black;
+  color: white;
+}
