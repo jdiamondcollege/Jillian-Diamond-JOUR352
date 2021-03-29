@@ -40,3 +40,9 @@ blockquote {
   text-transform: capitalize;
   font-style: italic;
 }
+
+figcaption {
+  font-size: 0.5em ;
+  font-style: italic;
+  color: #919191;
+}
