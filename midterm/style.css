@@ -4,8 +4,6 @@ body {
   margin-right: auto;
   text-align: center;
   font-size: 1em;
-  padding-left: 100px;
-  padding-right: 100px;
 }
 
 #masthead {
@@ -23,17 +21,27 @@ h1 {
   font-size: 2em;
   font-weight: 500;
   font-family: 'Helvetica', sans-serif;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+p {
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 #byline {
   font-family: Helvetica, sans-serif;
   font-size: 14px;
   font-style: italic;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 #subhead {
   font-weight: 400;
   font-size: 1.5em;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 blockquote {
@@ -41,12 +49,16 @@ blockquote {
   font-size: 1.5em;
   text-transform: capitalize;
   font-style: italic;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 figcaption {
-  font-size: 0.5em ;
+  font-size: 0.75em ;
   font-style: italic;
   color: #919191;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 /* captions are grey so less attention is drawn towards them */
@@ -54,6 +66,8 @@ figcaption {
 img {
   width: 500px;
   height: auto;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 footer {
