@@ -49,3 +49,8 @@ figcaption {
 }
 
 /* captions are grey so less attention is drawn towards them */
+
+img {
+  width: 500px;
+  height: auto;
+}
