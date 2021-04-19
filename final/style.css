@@ -1,0 +1,65 @@
+#content {
+  margin: 0 auto;
+  width: 900px;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+#masthead {
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 3em;
+  font-weight: 700;
+  font-family: 'Montserrat', serif;
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  text-align: left;
+  font-size: 2em;
+  font-weight: 500;
+  font-family: 'Helvetica', sans-serif;
+}
+
+#byline {
+  font-family: Helvetica, sans-serif;
+  font-size: 14px;
+  font-style: italic;
+}
+
+figcaption {
+  text-align: center;
+  font-style: italic;
+  color: #848484;
+  font-size: 0.5em;
+}
+
+blockquote {
+  font-style: italic;
+  font-weight: 500;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  margin-left: 50px;
+  padding-left: 15px;
+  font-family: 'Montserrat', serif;
+  color: blue;
+  font-size: 2em;
+}
+
+p {
+  font-size: 1em;
+}
+
+img {
+  max-width:50%;
+  max-height:50%;
+}
+
+footer {
+  color: white;
+  background-color: black;
+  text-align: center;
+  font-size: 1.5em;
+  font-family: 'Helvetica', sans-serif;
+  font-weight: 500;
+}
