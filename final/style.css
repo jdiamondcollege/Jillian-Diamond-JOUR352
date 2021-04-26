@@ -2,8 +2,8 @@
   margin: 0 auto;
   width: 900px;
   font-family: 'Helvetica', 'Arial', sans-serif;
-  border-left: 500px solid black;
-  border-right: 500px solid black;
+  border-left: 100px solid black;
+  border-right: 100px solid black;
 }
 
 #masthead {
