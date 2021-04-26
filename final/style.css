@@ -1,6 +1,6 @@
 
 
-#content {
+.container-fluid {
   width: 1000px;
   font-family: 'Helvetica', 'Arial', sans-serif;
   border-left: 100px solid black;
